@@ -62,4 +62,6 @@ public class LogicPositivizer {
                         // appended with a path to "output"
                         .resolve(Paths.get("output")));
     }
+
+    //added comments
 }
